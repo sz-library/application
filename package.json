@@ -6,6 +6,7 @@
     "push": "npm version patch && npm publish",
     "postpush": "git push"
   },
+  "author": "",
   "dependencies": {
     "@tanstack/react-query": "^4.0.5",
     "antd": "^4.21.7",
