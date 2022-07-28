@@ -1,6 +1,6 @@
 {
   "name": "qj-application",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "scripts": {
     "prepush": "git add . && git commit -m 发布",
     "push": "npm version patch && npm publish",
